@@ -1,21 +1,4 @@
-## Hi there 👋
-
-<!--
-**Elyzinn/Elyzinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# Olá, eu sou o Elienay Henrique! 👋
+## Olá, Meu nome é Elienay Henrique 👋
 
 🎓 **Estudante de Sistemas para Internet** | 🛠️ **Suporte, Infraestrutura & Desenvolvedor em Formação**
 
@@ -46,14 +29,13 @@ Here are some ideas to get you started:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-*(Dica: Ajuste as badges acima com as linguagens/frameworks que você está focando no curso de Sistemas para Internet!)*
 
----
 
 ### 📌 Projetos em Destaque
 
-- **Portal de Estágios (Hackathon)** 🏆[cite: 1]
-  - *Descrição breve do projeto, tecnologias utilizadas e o problema que ele resolveu.*
+- **Portal de Estágios (Hackathon)** 🏆
+  - Projeto desenvolvido em PHP, TypeScript e Java com Banco de Dados MySQL.
+  - O projeto visa suprir uma necessidade no Site Institucional da UniAlfa criando um meio de contato do aluno com o mercado de Trabalho.
 
 ---
 
@@ -61,10 +43,3 @@ Here are some ideas to get you started:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elienay-henrique)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elienayhenriquesouza@outlook.com)
-
----
-
-📈 **Estatísticas do GitHub**
-
-![Elienay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elyzinn&show_icons=true&theme=radial)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elyzinn&layout=compact&theme=radial)
